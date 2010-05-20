@@ -4,3 +4,4 @@ tekst4
 zmiana2
 tekst5
 zmiana2
+zmiana4
