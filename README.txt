@@ -6,3 +6,4 @@ tekst5
 zmiana2
 nowy tekst.cs
 nowy.1
+sdadsad
